@@ -1,0 +1,12 @@
+﻿  main.cpp
+src\main.cpp(67): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+src\main.cpp(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+src\main.cpp(143): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Generating code
+  31 of 360 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    54 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  JGravRender.vcxproj -> C:\Users\AMD\Documents\Visual Studio 2017\Projects\JGravRender\Release\JGravRender.exe

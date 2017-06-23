@@ -1,0 +1,7 @@
+﻿color.obj : error LNK2019: unresolved external symbol __imp___invalid_parameter referenced in function "public: class Color * & __thiscall std::vector<class Color *,class std::allocator<class Color *> >::operator[](unsigned int)" (??A?$vector@PAVColor@@V?$allocator@PAVColor@@@std@@@std@@QAEAAPAVColor@@I@Z)
+main.obj : error LNK2001: unresolved external symbol __imp___invalid_parameter
+render.obj : error LNK2001: unresolved external symbol __imp___invalid_parameter
+color.obj : error LNK2019: unresolved external symbol __imp___CrtDbgReportW referenced in function "void * __cdecl std::_Allocate(unsigned int,unsigned int,bool)" (?_Allocate@std@@YAPAXII_N@Z)
+main.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+render.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+C:\Users\AMD\Documents\Visual Studio 2017\Projects\JGravRender\Debug\JGravRender.exe : fatal error LNK1120: 2 unresolved externals
